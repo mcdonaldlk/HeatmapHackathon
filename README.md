@@ -9,6 +9,8 @@ Collaborative Repo for Heatmap Hackathon authored by Emmanuel Fle Chea, Josh Spi
 
 [Figure 3i: The Referral Gap](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_3i.html)
 
+[Figure 3.5i: The Referral Bottleneck](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_3.5i_The_Refereral_Bottleneck.html)
+
 [Figure 4i Telemedicine: Burn Center Density By State](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_4i_Telemedicine.html)
 
 [Figure 5i: The Pediatric Access Gap](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_5i_Pediatric_Gap.html)
@@ -19,9 +21,13 @@ Collaborative Repo for Heatmap Hackathon authored by Emmanuel Fle Chea, Josh Spi
 
 [Figure 7is: Equity Quadrant - Access Vs Quality](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_7i_Scatter.html)
 
+[Figure 7.5i: Distance Paradox](https://mcdonaldlk.github.io/HeatmapHackathon/Analysis_7_5_Distance_Paradox.html)
+
 [Figure 8i: Social Demand (Need) - State SVI Average](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_8i_Social_Vulnerability.html)
 
 [Figure 9i: Composite Burn Care Vulnerability Index](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_9i_Vulnerability_Index.html)
+
+[Figure 10i: Population Density vs Distance Burden](https://mcdonaldlk.github.io/HeatmapHackathon/Figure10i_Population_Density_vs_Distance_Burden.html)
 
 [Figure 13i: Modeled Impact of Burn Under-Referral](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_13i_Impact_Projection.html)
 
