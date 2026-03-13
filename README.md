@@ -9,7 +9,7 @@ Collaborative Repo for Heatmap Hackathon authored by Emmanuel Fle Chea, Josh Spi
 
 [Figure 3i: The Referral Gap](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_3i.html)
 
-[Figure 3.5i: The Referral Bottleneck](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_3.5i_The_Refereral_Bottleneck.html)
+[Figure 3.5i: The Referral Bottleneck](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_3.5i_The_Referral_Bottleneck.html)
 
 [Figure 4i Telemedicine: Burn Center Density By State](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_4i_Telemedicine.html)
 
