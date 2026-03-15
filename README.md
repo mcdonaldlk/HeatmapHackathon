@@ -54,7 +54,7 @@ GitHub infrastructure
 
 Shreya / Josh
 [Add contributions if shared]
-
+---
 📈 How to Run the Code
 Clone the repository:
 
@@ -67,19 +67,19 @@ pip install -r requirements.txt
 Place the NIRD dataset (not included) in /data/
 
 Run individual notebooks from /code/[name]/
-
+---
 🏆 Presentation
 Our final submission includes:
 Include a 1-page overview explaining your solution
 Include a README with your code submission
 Submit a presentation deck (max 10 slides)
-
+---
 📝 License
 This project is shared for educational and research purposes under the terms of the hackathon. Data remains the property of its original owners. Code is open-sourced under the MIT License.
-
+---
 🙌 Acknowledgments
 Thanks to the hackathon organizers, mentors, and the American Burn Association for providing the data and challenge.
-
+---
 📬 Contact
 For questions about this repository, please contact Lance or open an issue.
 
