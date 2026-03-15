@@ -82,15 +82,7 @@ Thanks to the hackathon organizers, mentors, and the American Burn Association f
 ---
 📬 Contact
 For questions about this repository, please contact Lance or open an issue.
-
-Why This README Works
-Element	Purpose
-Clear team roles	Shows everyone contributed
-Folder structure	Transparent, organized
-Separate credit sections	No one is erased
-Alternative presentation listed	Your work is visible without competing
-Professional tone	Looks great to judges
-Would you like help tailoring this further once others share their specific contributions?
+---
 
 
 Collaborative Repo for Heatmap Hackathon authored by Emmanuel Fle Chea, Josh Spitzer-Resnick, Shreya Pramanik, Feifei Li, Lance Killian McDonald
