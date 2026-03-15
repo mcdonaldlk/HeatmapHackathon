@@ -8,10 +8,15 @@ Our team explored this question by analyzing geographic access to burn centers, 
 
 👥 Team Members
 Name	Role / Focus Area	GitHub
+
 Emmanuel Chea	Lead Analyst – Distance analysis, SVI integration, Use Case framing	@efchea1
+
 Feifei Li	Visualization Lead – Interactive maps, alternative presentation design	@feifei-li
+
 Lance McDonald	GitHub Repo Host, Technical Support	@mcdonaldlk
+
 Shreya Pramanik	[Add role if known]	@Shreya-bristi
+
 Josh Spitzer-Resnick	[Add role if known]	@joshsr
 
 
