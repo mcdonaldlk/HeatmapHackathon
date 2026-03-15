@@ -1,5 +1,5 @@
 ---
-Interactive Figs:https://mcdonaldlk.github.io/HeatmapHackathon/
+Interactive Figs: https://mcdonaldlk.github.io/HeatmapHackathon/
 ---
 
 ## Team Contributions
