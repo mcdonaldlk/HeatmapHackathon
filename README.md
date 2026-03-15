@@ -1,11 +1,12 @@
 # HeatmapHackathon
 Team 13 – Heatmap Hackathon 2026
+---
 Project: Advancing Equitable Access to Burn Care
 Challenge Statement:
 How can data be used to identify and reduce disparities in access to timely, high-quality burn care across different populations and geographies in the U.S.?
 
 Our team explored this question by analyzing geographic access to burn centers, integrating social vulnerability indices, and proposing data-driven recommendations to improve equity in burn care delivery.
-
+---
 👥 Team Members
 Name	Role / Focus Area	GitHub
 
@@ -59,6 +60,7 @@ GitHub infrastructure
 
 Shreya / Josh
 [Add contributions if shared]
+
 ---
 📈 How to Run the Code
 Clone the repository:
