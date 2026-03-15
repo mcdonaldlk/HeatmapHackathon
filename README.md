@@ -1,4 +1,111 @@
 # HeatmapHackathon
+Team 13 – Heatmap Hackathon 2026
+Project: Advancing Equitable Access to Burn Care
+Challenge Statement:
+How can data be used to identify and reduce disparities in access to timely, high-quality burn care across different populations and geographies in the U.S.?
+
+Our team explored this question by analyzing geographic access to burn centers, integrating social vulnerability indices, and proposing data-driven recommendations to improve equity in burn care delivery.
+
+👥 Team Members
+Name	Role / Focus Area	GitHub
+Emmanuel Chea	Lead Analyst – Distance analysis, SVI integration, Use Case framing	@efchea1
+Feifei Li	Visualization Lead – Interactive maps, alternative presentation design	@feifei-li
+Lance McDonald	GitHub Repo Host, Technical Support	@mcdonaldlk
+Shreya Pramanik	[Add role if known]	@Shreya-bristi
+Josh Spitzer-Resnick	[Add role if known]	@joshsr
+📁 Repository Structure
+text
+├── code/
+│   ├── emmanuel/          # Distance analysis, SVI, etc.
+│   ├── feifei/            # Interactive maps, EDA notebooks
+│   ├── lance/             # Repo setup, supporting scripts, Tech support 
+│   ├── shreya/            # (if applicable)
+│   └── josh/              # (if applicable)
+│
+├── data/                   # Public datasets used (see sources below)
+├── outputs/                # Visualizations, maps, charts
+├── presentation/
+│   ├── main_deck/          # Emmanuel's version (primary)
+│   └── alternatives/       # Feifei's visual slides (for reference)
+├── README.md               # You are here
+└── requirements.txt        # Python dependencies
+📊 Datasets Used
+NIRD Database (2023) – Hackathon-provided burn care data
+
+CDC SVI 2022 – Social Vulnerability Index (county level)
+
+Census Population Estimates 2020–2025 – Population data
+
+Rural-Urban Continuum Codes 2023 – USDA economic research service
+
+NFIRS – National Fire Incident Reporting System (referenced)
+
+All public datasets are documented in /data/sources.md.
+
+🧠 Key Analyses
+Emmanuel
+Distance to nearest burn center (population-weighted)
+
+Integration with SVI and rurality
+
+Composite vulnerability scoring
+
+Tele-burn hub recommendations
+
+Feifei
+Interactive county-level maps
+
+Visual EDA and alternative presentation design
+
+Population distribution overlays
+
+Lance
+GitHub infrastructure
+
+[Add if applicable]
+
+Shreya / Josh
+[Add contributions if shared]
+
+📈 How to Run the Code
+Clone the repository:
+
+bash
+git clone https://github.com/mcdonaldlk/HeatmapHackathon.git
+Install dependencies:
+
+bash
+pip install -r requirements.txt
+Place the NIRD dataset (not included) in /data/
+
+Run individual notebooks from /code/[name]/
+
+🏆 Presentation
+Our final submission includes:
+
+Main presentation deck (Emmanuel) – /presentation/main_deck/
+
+Alternative visual deck (Feifei) – /presentation/alternatives/ – for reference and visual inspiration
+
+📝 License
+This project is shared for educational and research purposes under the terms of the hackathon. Data remains the property of its original owners. Code is open-sourced under the MIT License.
+
+🙌 Acknowledgments
+Thanks to the hackathon organizers, mentors, and the American Burn Association for providing the data and challenge.
+
+📬 Contact
+For questions about this repository, please contact Lance or open an issue.
+
+Why This README Works
+Element	Purpose
+Clear team roles	Shows everyone contributed
+Folder structure	Transparent, organized
+Separate credit sections	No one is erased
+Alternative presentation listed	Your work is visible without competing
+Professional tone	Looks great to judges
+Would you like help tailoring this further once others share their specific contributions?
+
+
 Collaborative Repo for Heatmap Hackathon authored by Emmanuel Fle Chea, Josh Spitzer-Resnick, Shreya Pramanik, Feifei Li, Lance Killian McDonald
 ## Interactive Maps
 [Figure 1i: Burn Center Density By State](https://mcdonaldlk.github.io/HeatmapHackathon/Figure_1i.html)
