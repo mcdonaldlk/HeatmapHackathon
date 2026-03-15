@@ -13,22 +13,10 @@ Feifei Li	Visualization Lead – Interactive maps, alternative presentation desi
 Lance McDonald	GitHub Repo Host, Technical Support	@mcdonaldlk
 Shreya Pramanik	[Add role if known]	@Shreya-bristi
 Josh Spitzer-Resnick	[Add role if known]	@joshsr
-📁 Repository Structure
-text
-├── code/
-│   ├── emmanuel/          # Distance analysis, SVI, etc.
-│   ├── feifei/            # Interactive maps, EDA notebooks
-│   ├── lance/             # Repo setup, supporting scripts, Tech support 
-│   ├── shreya/            # (if applicable)
-│   └── josh/              # (if applicable)
-│
-├── data/                   # Public datasets used (see sources below)
-├── outputs/                # Visualizations, maps, charts
-├── presentation/
-│   ├── main_deck/          # Emmanuel's version (primary)
-│   └── alternatives/       # Feifei's visual slides (for reference)
-├── README.md               # You are here
-└── requirements.txt        # Python dependencies
+
+
+---
+
 📊 Datasets Used
 NIRD Database (2023) – Hackathon-provided burn care data
 
@@ -41,7 +29,7 @@ Rural-Urban Continuum Codes 2023 – USDA economic research service
 NFIRS – National Fire Incident Reporting System (referenced)
 
 All public datasets are documented in /data/sources.md.
-
+---
 🧠 Key Analyses
 Emmanuel
 Distance to nearest burn center (population-weighted)
@@ -82,10 +70,9 @@ Run individual notebooks from /code/[name]/
 
 🏆 Presentation
 Our final submission includes:
-
-Main presentation deck (Emmanuel) – /presentation/main_deck/
-
-Alternative visual deck (Feifei) – /presentation/alternatives/ – for reference and visual inspiration
+Include a 1-page overview explaining your solution
+Include a README with your code submission
+Submit a presentation deck (max 10 slides)
 
 📝 License
 This project is shared for educational and research purposes under the terms of the hackathon. Data remains the property of its original owners. Code is open-sourced under the MIT License.
